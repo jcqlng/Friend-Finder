@@ -1,9 +1,9 @@
 const express = require('express');
 const path = require('path');
-const routes = require('./routes');
+const routes = require('./app/routes');
 const app = express();
 
-app.use(express.static('public'));
+app.use(express.static('app/public'));
 
 app.use('/', routes);
 
