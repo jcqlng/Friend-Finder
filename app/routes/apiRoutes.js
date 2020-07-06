@@ -9,7 +9,7 @@ routes.get('/api/friends', function(req, res){
 })
 
 routes.post('/api/test', function(req, res){
-    res.send(req.body);
+    res.status(200).send(req.body);
 })
 
 routes.post('/api/friends', function(req, res){
