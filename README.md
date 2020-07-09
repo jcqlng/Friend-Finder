@@ -1,5 +1,8 @@
 # FriendFinder
-The friend finder app is a compatibility test based on a 10 question survey that the user will respond to. The answer to the questions range from 1 (strongly disagree) through 5 (strongly agree). Once the survey is submitted, a friend from the user data will pop up in a module based on the user's response by matching the scores. 
+The friend finder app is a compatibility test based on a 10 question survey that the user will respond to. The answer to the questions range from 1 (strongly disagree) through 5 (strongly agree). Once the survey is submitted, a friend from the user data will pop up in a module based on the user's response by matching the scores.
+ 
+* https://jcqlng.github.io/FriendFinder/
+* https://friendfinder-jg.herokuapp.com/ 
 
 ## How to use 
 
