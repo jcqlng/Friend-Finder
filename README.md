@@ -1,6 +1,7 @@
 # FriendFinder
-### A friend matching application.
-# Description 
+A friend matching application.
+
+## Description 
 The friend finder app is a compatibility test of some of your personality traits. 
 
 1. The home page starts with a brief description of the app and a click button to start the survey.
@@ -15,3 +16,13 @@ The friend finder app is a compatibility test of some of your personality traits
 
 4. To review the data saved and submitted click on API Friend list. 
 ![API](./screenshots/api.jpg)
+
+## Dependencies 
+1. Node 
+2. Express
+
+# Acknowledgment and Sources
+* Basics on express - https://www.npmjs.com/package/express
+* Clarification and examples of express - https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm
+* Tutorial on creating the app - https://www.youtube.com/watch?v=kWu9stxD6m0 
+
